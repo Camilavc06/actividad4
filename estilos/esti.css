@@ -1,0 +1,130 @@
+.a1{
+	position: absolute;
+	top: -1%;
+	left: -1%;
+  width: 101%; 
+  height: 750%;
+	background-color: #EE82EE;
+}
+.a2{
+	position: absolute;
+	top: 10%;
+	left: 70%;
+  font-size: 45px;
+  font-family:a1;
+  border-style: dotted;
+  color: white;
+}
+.a3{
+  position: absolute;
+  top: 8%;
+  left: 2%;
+  width: 59.5%; 
+  height: 92%;
+  background-image: url(../fotos/captura.jpg);
+}
+.a4{
+  position: absolute;
+  top: 100%;
+  left: 2%;
+  width: 41%; 
+  height: 87%;
+  background-image: url(../fotos/captura1.jpg);
+}
+.a5{
+  position: absolute;
+  top: 187%;
+  left: 2%;
+  width: 47%; 
+  height: 87%;
+  background-image: url(../fotos/captura2.jpg);
+}
+.a6{
+  position: absolute;
+  top: 274%;
+  left: 2%;
+  width: 44%; 
+  height: 87%;
+  background-image: url(../fotos/captura3.jpg);
+}
+.a7{
+  position: absolute;
+  top: 360%;
+  left: 2%;
+  width: 39%; 
+  height: 87%;
+  background-image: url(../fotos/captura4.jpg);
+}
+.a8{
+  position: absolute;
+  top: 447%;
+  left: 2%;
+  width: 64%; 
+  height: 87%;
+  background-image: url(../fotos/captura5.jpg);
+}
+.a9{
+  position: absolute;
+  top: 534%;
+  left: 2%;
+  width: 45%; 
+  height: 87%;
+  background-image: url(../fotos/captura6.jpg);
+}
+.a10{
+  position: absolute;
+  top: 621%;
+  left: 2%;
+  width: 59%; 
+  height: 87%;
+  background-image: url(../fotos/captura7.jpg);
+}
+.a11{
+  position: absolute;
+  top: 708%;
+  left: 2%;
+  width: 59%; 
+  height: 23%;
+  background-image: url(../fotos/captura8.jpg);
+}
+.a12{
+  position: absolute;
+  top: 25%;
+  left: 62%;
+  font-size: 20px;
+  font-family:a1;
+  color: white;
+}
+.a13{
+  position: absolute;
+  top: 660%;
+  left: 70%;
+  width: 20%;
+  height: 15%;
+  font-family: a1;
+  text-shadow: 2px 3px 1px #FF00FF;
+  border: dotted 5px;
+  font-size: 35px;
+  transition: width 2s;
+  color: white;
+}
+.a13:hover{
+  position: absolute;
+  top: 660%;
+  left: 70%;
+  width: 23%;
+  height: 15%;
+  font-family: a1;
+  text-shadow: 2px 3px 1px #FF00FF;
+  border: dotted 5px;
+  font-size: 35px;
+  color: white;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+@font-face{
+	font-family:a1;
+	src: url(fu1.ttf);
+}
